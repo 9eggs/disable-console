@@ -15,4 +15,4 @@
     }
 })();
 
-#http://davidwalsh.name/disable-console
+//http://davidwalsh.name/disable-console
