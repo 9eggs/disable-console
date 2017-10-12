@@ -14,5 +14,3 @@
     } catch ($ignore$$) {
     }
 })();
-
-//http://davidwalsh.name/disable-console
